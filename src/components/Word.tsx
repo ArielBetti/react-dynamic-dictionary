@@ -1,6 +1,3 @@
-import randomColor from "randomcolor";
-import React from "react";
-
 type TWordProps = {
   word: string;
 };

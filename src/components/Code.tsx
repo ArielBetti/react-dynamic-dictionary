@@ -1,5 +1,3 @@
-import React from "react";
-
 const Code = () => {
   return (
     <div className="mockup-code w-full sm:max-w-full max-w-xs">
